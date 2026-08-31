@@ -16,8 +16,7 @@ Grounded in a direct, page-cited reading of Claire Fanger's *Rewriting Magic* (2
 and *Invoking Angels* (2012), plus the wider medieval-magic scholarship (Kieckhefer,
 Page, Klaassen, Láng) that supplies the field's context.
 
-**Live site:** _deployed via GitHub Pages — see badge/link below once the first
-deploy is confirmed._
+**Live site: [t3dy.github.io/MorignyPortal](https://t3dy.github.io/MorignyPortal/)**
 
 ## Quick Start
 
