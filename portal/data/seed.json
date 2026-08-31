@@ -382,6 +382,31 @@
       "source_method": "CORPUS_SYNTHESIS",
       "review_status": "DRAFT",
       "confidence": "HIGH"
+    },
+    {
+      "slug": "guillaume-de-nangis-chronicle-continuation",
+      "title": "Chronicle of Guillaume de Nangis (continuation)",
+      "title_latin": null,
+      "title_translated": "the Latin chronicle tradition's own version of the 1323 notice",
+      "author_figure_slug": null,
+      "text_type": "PRIMARY_CHRONICLE",
+      "language": "Latin",
+      "date_or_period": "continuation entries into the 1320s-1330s",
+      "card": "The continuation of Guillaume de Nangis's Latin chronicle of the kings of France — a distinct textual witness from the vernacular Grandes Chroniques de France, part of the same Saint-Denis chronicle tradition — carries its own, more compressed version of the 1323 condemnation notice. Fanger identifies this compression as the second link (after the original Grandes Chroniques entry) in the chain of paraphrase that eventually strips John of authorship of his own book by the time of Henry Charles Lea's 1887 history.",
+      "body": "## Overview\n\nGuillaume de Nangis (d. 1300) was a monk of Saint-Denis whose Latin chronicle of the kings of France was continued by later anonymous hands into the fourteenth century; this continuation tradition runs in close parallel to, but is textually distinct from, the vernacular *Grandes Chroniques de France* that first records the 1323 condemnation of the unnamed \"monk of Morigny\" (see [[grandes-chroniques-1323-notice]]).\n\n## Role in the Historiography of Erasure\n\nFanger identifies the Nangis continuation's retelling of the 1323 notice as a further compression of the original account — not yet the outright misattribution that would follow in the sixteenth century (see [[timeline-antiquitez-de-paris-16thc]]), but an early step in the same direction: less specific, less careful about the distinction between John's own book and the *ars notoria* tradition it drew on (*Rewriting Magic*, p.3, p.20). This portal has not independently read the Nangis continuation's own Latin text; its content here is described only as Fanger characterizes it.\n\n## Literature\n\n- Fanger, Claire. *Rewriting Magic*. Penn State University Press, 2015, p.3, p.20.",
+      "known_manuscripts": [],
+      "modern_editions": [],
+      "literature": [
+        "Fanger, Claire. Rewriting Magic. Penn State University Press, 2015."
+      ],
+      "tags": [
+        "chronicle",
+        "historiography",
+        "erasure"
+      ],
+      "source_method": "CORPUS_SYNTHESIS",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
     }
   ],
   "institutions": [
@@ -747,6 +772,168 @@
       "source_method": "CORPUS_SYNTHESIS",
       "review_status": "DRAFT",
       "confidence": "HIGH"
+    },
+    {
+      "slug": "timeline-vision-8",
+      "title": "Vision 8: a first, incomplete rejection",
+      "year_start": 1300,
+      "year_end": 1315,
+      "date_precision": "CIRCA",
+      "place": "presumed Orléans or Morigny",
+      "category": "LIFE",
+      "grounding": "ATTESTED",
+      "card": "Before the decisive Vision 9, John's Book of Visions records an earlier vision (Vision 8) in which God expresses unambiguous prohibition of the ars notoria. John's own conversion is not sudden: he records that he \"put it away from me somewhat, but not entirely\" (Rewriting Magic, p.66, Fanger quoting the Book of Visions directly) — a false start Fanger reads as evidence the text is a genuine confessio, not a smoothed hagiographic narrative.",
+      "body": null,
+      "figures_involved": [
+        "john-of-morigny"
+      ],
+      "texts_involved": [
+        "liber-florum-celestis-doctrine"
+      ],
+      "tags": [
+        "vision",
+        "conversion",
+        "ars-notoria"
+      ],
+      "source_method": "CORPUS_SYNTHESIS",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "timeline-guillaume-de-nangis-continuation",
+      "title": "Guillaume de Nangis's chronicle compresses the 1323 account",
+      "year_start": 1323,
+      "year_end": 1340,
+      "date_precision": "CIRCA",
+      "place": "Paris (Saint-Denis chronicle tradition)",
+      "category": "RECEPTION",
+      "grounding": "ATTESTED",
+      "card": "The continuation of Guillaume de Nangis's Latin chronicle — a distinct textual witness from the vernacular Grandes Chroniques de France — retells the 1323 condemnation in compressed form, the first step in the centuries-long chain of paraphrase that Fanger traces from a roughly accurate original notice toward the near-total erasure of John's authorship. See the Grandes Chroniques 1323 notice for the fuller original account, and The historiography of erasure for the whole chain.",
+      "body": null,
+      "figures_involved": [
+        "john-of-morigny"
+      ],
+      "texts_involved": [
+        "grandes-chroniques-1323-notice",
+        "guillaume-de-nangis-chronicle-continuation"
+      ],
+      "tags": [
+        "historiography",
+        "chronicle",
+        "erasure"
+      ],
+      "source_method": "CORPUS_SYNTHESIS",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "timeline-antiquitez-de-paris-16thc",
+      "title": "A 16th-century Parisian antiquarian history inverts the record",
+      "year_start": 1500,
+      "year_end": 1599,
+      "date_precision": "CIRCA",
+      "place": "Paris",
+      "category": "RECEPTION",
+      "grounding": "ATTESTED",
+      "card": "A sixteenth-century antiquarian history of Paris (cited in Fanger's own historiographical account as Antiquitez... de Paris) takes the erasure a step further than Nangis's compression: it falsely credits the unnamed \"monk of Morigny\" with having invented the ars notoria itself, collapsing the distinction between John's own book and the older tradition he drew on and rewrote — a distinction the original 1323 Grandes Chroniques notice had actually preserved.",
+      "body": null,
+      "figures_involved": [
+        "john-of-morigny"
+      ],
+      "texts_involved": [
+        "grandes-chroniques-1323-notice"
+      ],
+      "tags": [
+        "historiography",
+        "erasure",
+        "ars-notoria"
+      ],
+      "source_method": "CORPUS_SYNTHESIS",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "timeline-lea-1887",
+      "title": "1887: Henry Charles Lea erases John as author",
+      "year_start": 1887,
+      "year_end": 1887,
+      "date_precision": "EXACT",
+      "place": "Philadelphia (publication)",
+      "category": "RECEPTION",
+      "grounding": "ATTESTED",
+      "card": "Henry Charles Lea's A History of the Inquisition of the Middle Ages (1887), drawing on the already-degraded chain of paraphrase running from the Grandes Chroniques through Nangis's compression to the 16th-century Antiquitez... de Paris, removes John as an identifiable author of the condemned book altogether — the low point of the historiography of erasure, and the last major secondary reference to the case before Jean Dupèbe's 1987 manuscript notice began the modern recovery.",
+      "body": null,
+      "figures_involved": [
+        "john-of-morigny"
+      ],
+      "texts_involved": [
+        "grandes-chroniques-1323-notice"
+      ],
+      "tags": [
+        "historiography",
+        "erasure",
+        "1887"
+      ],
+      "source_method": "CORPUS_SYNTHESIS",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "timeline-watson-1998-conjuring-spirits",
+      "title": "1998: Nicholas Watson's essay announces the rediscovery to the field",
+      "year_start": 1998,
+      "year_end": 1998,
+      "date_precision": "EXACT",
+      "place": null,
+      "category": "RECEPTION",
+      "grounding": "ATTESTED",
+      "card": "Nicholas Watson's essay \"John the Monk's Book of Visions of the Blessed and Undefiled Virgin Mary, Mother of God: Two Anonymous Reworkings, and Oswald de Corda,\" published in Claire Fanger's edited volume Conjuring Spirits: Texts and Traditions of Medieval Ritual Magic (Penn State University Press, 1998), is the essay that first announces the modern manuscript rediscovery to the field of medieval-magic scholarship — the earliest point at which John of Morigny's own text, rather than the degraded chronicle-paraphrase chain, becomes available for study again. The essay itself was not available on this portal's machine and is cited here only from Fanger's own back-matter cross-references in Rewriting Magic, not independently read.",
+      "body": null,
+      "figures_involved": [
+        "john-of-morigny",
+        "nicholas-watson",
+        "claire-fanger"
+      ],
+      "texts_involved": [
+        "liber-florum-celestis-doctrine"
+      ],
+      "tags": [
+        "rediscovery",
+        "1998",
+        "modern-scholarship"
+      ],
+      "source_method": "CORPUS_SYNTHESIS",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "timeline-fanger-watson-2001-esoterica",
+      "title": "2001: Fanger and Watson publish the Liber Visionum prologue",
+      "year_start": 2001,
+      "year_end": 2001,
+      "date_precision": "EXACT",
+      "place": null,
+      "category": "RECEPTION",
+      "grounding": "ATTESTED",
+      "card": "Claire Fanger and Nicholas Watson publish \"The Prologue to John of Morigny's Liber Visionum: Text and Translation\" in Esoterica 3 (2001) — the first substantial English-language scholarship on the text. This article is also the origin of two claims Fanger's own 2015 preface to Rewriting Magic later retracts as manuscript-reading errors: the location of John's ars notoria experiments at Chartres (corrected to Orléans) and the location of the 1315 \"Barking Dogs\" condemnation at Sens (retracted as unlocatable on present textual evidence) — a documented instance of the field's understanding self-correcting on further manuscript work, not a single fixed picture.",
+      "body": null,
+      "figures_involved": [
+        "john-of-morigny",
+        "claire-fanger",
+        "nicholas-watson"
+      ],
+      "texts_involved": [
+        "liber-florum-celestis-doctrine"
+      ],
+      "tags": [
+        "rediscovery",
+        "2001",
+        "modern-scholarship",
+        "self-correction"
+      ],
+      "source_method": "CORPUS_SYNTHESIS",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
     }
   ],
   "arguments": [
@@ -943,6 +1130,40 @@
       "conversion_status": "CONVERTED",
       "online_url": null,
       "access_note": "Available in corpus; not yet closely read for this Phase 1 build."
+    },
+    {
+      "source_id": "fanger-conjuring-spirits-1998",
+      "author": "Fanger, Claire (ed.)",
+      "title": "Conjuring Spirits: Texts and Traditions of Medieval Ritual Magic",
+      "year": 1998,
+      "publisher": "Penn State University Press",
+      "journal": null,
+      "pub_type": "edited_volume",
+      "relevance": "PRIMARY",
+      "card": "The edited volume containing Nicholas Watson's essay that first announced the modern manuscript rediscovery of John of Morigny's text to the field of medieval-magic scholarship — the opening publication of the 1990s rediscovery chain. Not available on this portal's machine; cited here only via Fanger's own back-matter cross-references in Rewriting Magic, never independently read.",
+      "body": "## Bibliographic info\n\nClaire Fanger, ed., *Conjuring Spirits: Texts and Traditions of Medieval Ritual Magic* (University Park: Penn State University Press, 1998).\n\n## Argument and contribution\n\nContains Nicholas Watson's essay \"John the Monk's Book of Visions of the Blessed and Undefiled Virgin Mary, Mother of God: Two Anonymous Reworkings, and Oswald de Corda\" — per Fanger's own later cross-references, the essay that first brought the rediscovered *Liber florum* manuscript tradition to the field's attention. This portal has not read the volume directly; its existence, date, and role are established only via citation in *Rewriting Magic*'s own back matter.\n\n## Access note\n\nNot available on this portal author's machine at build time. See `about.html` on the built site for the full list of sources in this position.",
+      "key_arguments": [],
+      "corpus_file": null,
+      "conversion_status": "NOT_CONVERTED",
+      "online_url": null,
+      "access_note": "Not available; cited only via Fanger's own cross-references in Rewriting Magic."
+    },
+    {
+      "source_id": "fanger-watson-esoterica-2001",
+      "author": "Fanger, Claire, and Nicholas Watson",
+      "title": "The Prologue to John of Morigny's Liber Visionum: Text and Translation",
+      "year": 2001,
+      "publisher": null,
+      "journal": "Esoterica",
+      "pub_type": "article",
+      "relevance": "DIRECT",
+      "card": "The first substantial English-language scholarship on John of Morigny's text (Esoterica 3, 2001). Historiographically important in its own right: this is the article whose Chartres and Sens location attributions Fanger's 2015 Rewriting Magic preface explicitly retracts as manuscript-reading errors, a documented case of the field's own self-correction. Not available on this portal's machine; cited only via Fanger's own retraction of it.",
+      "body": "## Bibliographic info\n\nClaire Fanger and Nicholas Watson, \"The Prologue to John of Morigny's *Liber Visionum*: Text and Translation,\" *Esoterica* 3 (2001).\n\n## Argument and contribution\n\nThe first substantial English-language scholarly treatment of John of Morigny's text following the early-1990s manuscript rediscoveries, offering an edition and translation of the *Liber florum*'s prologue. Its lasting significance for this portal is historiographical rather than content-based: Fanger's own 2015 preface to *Rewriting Magic* explicitly retracts two claims first published here — the location of John's *ars notoria* experiments at Chartres (corrected to Orléans) and the location of the 1315 \"Barking Dogs\" condemnation at Sens (now treated as unlocated) — citing a manuscript-reading error in the original work (*Rewriting Magic*, p.x). This portal treats that retraction as a feature of the field's evidentiary discipline worth narrating explicitly, not a flaw to smooth over.\n\n## Access note\n\nNot available on this portal author's machine at build time; described here only via Fanger's own 2015 retraction of it, not independently read.",
+      "key_arguments": [],
+      "corpus_file": null,
+      "conversion_status": "NOT_CONVERTED",
+      "online_url": null,
+      "access_note": "Not available; described only via Fanger's own 2015 retraction of its Chartres/Sens attributions."
     }
   ],
   "scholarly_refs": [
@@ -1099,6 +1320,62 @@
       "bib_source_id": "fanger-rewriting-magic-2015",
       "page_ref": "3, p.20-22",
       "quote_or_note": "Erasure chain: chronicle to Lea 1887."
+    },
+    {
+      "entity_type": "event",
+      "entity_slug": "timeline-vision-8",
+      "bib_source_id": "fanger-rewriting-magic-2015",
+      "page_ref": "66",
+      "quote_or_note": "\"put it away from me somewhat, but not entirely\" - Book of Visions quoted directly."
+    },
+    {
+      "entity_type": "text",
+      "entity_slug": "guillaume-de-nangis-chronicle-continuation",
+      "bib_source_id": "fanger-rewriting-magic-2015",
+      "page_ref": "3, 20",
+      "quote_or_note": "Nangis continuation as second link in the erasure chain."
+    },
+    {
+      "entity_type": "event",
+      "entity_slug": "timeline-guillaume-de-nangis-continuation",
+      "bib_source_id": "fanger-rewriting-magic-2015",
+      "page_ref": "3, 20",
+      "quote_or_note": "Chronicle compression step."
+    },
+    {
+      "entity_type": "event",
+      "entity_slug": "timeline-antiquitez-de-paris-16thc",
+      "bib_source_id": "fanger-rewriting-magic-2015",
+      "page_ref": "20-22",
+      "quote_or_note": "16th-c. Parisian antiquarian history credits monk with inventing ars notoria."
+    },
+    {
+      "entity_type": "event",
+      "entity_slug": "timeline-lea-1887",
+      "bib_source_id": "fanger-rewriting-magic-2015",
+      "page_ref": "20-22",
+      "quote_or_note": "Lea's 1887 History of the Inquisition removes John as author."
+    },
+    {
+      "entity_type": "event",
+      "entity_slug": "timeline-watson-1998-conjuring-spirits",
+      "bib_source_id": "fanger-conjuring-spirits-1998",
+      "page_ref": null,
+      "quote_or_note": "Watson essay announcing rediscovery; cited via Fanger's own cross-references, not read directly."
+    },
+    {
+      "entity_type": "event",
+      "entity_slug": "timeline-fanger-watson-2001-esoterica",
+      "bib_source_id": "fanger-watson-esoterica-2001",
+      "page_ref": null,
+      "quote_or_note": "First English-language scholarship; source of the since-retracted Chartres/Sens attributions."
+    },
+    {
+      "entity_type": "event",
+      "entity_slug": "timeline-fanger-watson-2001-esoterica",
+      "bib_source_id": "fanger-rewriting-magic-2015",
+      "page_ref": "x",
+      "quote_or_note": "2015 preface retraction of the 2001 article's Chartres/Sens claims."
     }
   ]
 }

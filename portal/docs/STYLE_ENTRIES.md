@@ -55,6 +55,43 @@ equally certain.
 - "Barking Dogs" (John's own term for his 1315 condemners) stays
   quoted, always — it's his idiom, not a modern label.
 
+### Provenance narration (binding)
+
+> **A page number in `scholarly_refs` is not enough on its own. The body
+> text itself must say where a claim comes from — which manuscript,
+> discussed by which scholar, in which book or article.**
+
+A `scholarly_refs` row lets a reader trace a claim to a page. It does not,
+by itself, tell a reader *whether the claim rests on a manuscript, a
+chronicle, an inference, or a modern scholar's own argument* — that has
+to be visible in the prose, not just in the citation apparatus. Don't
+write a claim as free-floating fact and park the source in a footnote-
+equivalent; narrate the chain of transmission the same way the source
+itself does.
+
+- Don't write: "Twenty-three manuscripts of the *Liber florum* survive
+  (Fanger, *Rewriting Magic*, p.xi)."
+- Do write: "As of Fanger's own 2015 count in *Rewriting Magic*,
+  twenty-three manuscripts of the *Liber florum* survive — one with the
+  Old Compilation, eighteen with the New (p.xi)."
+- Don't write: "The ars notoria's reference manuscript is BnF Latin
+  9336."
+- Do write: "BnF Latin 9336, the manuscript Julien Véronèse uses as his
+  own reference text in *Invoking Angels* (p.42–43), is..."
+- Don't write: "A Munich manuscript was rediscovered in 1987."
+- Do write: "Jean Dupèbe's 1987 notice of a Munich manuscript was the
+  first modern scholarly flag that a text by John of Morigny survives
+  independent of the chronicle paraphrase chain."
+
+This applies with extra force to **timeline events**, where the temptation
+to write a bare, undated-feeling fact is strongest — every timeline card
+and body should name the specific manuscript, chronicle, edition, or
+scholarly publication the event is *about*, and (where the claim is
+modern scholarship rather than a medieval record) the scholar and the
+work they made the claim in. A timeline event with no named manuscript,
+chronicle, or publication behind it is a sign the event needs more
+research before it's ready to write, not a license to write it vaguely.
+
 ---
 
 ## Figures
