@@ -1,0 +1,163 @@
+[
+  {
+    "slug": "fanger-rewriting-magic-2015",
+    "author": "Claire Fanger",
+    "title": "Rewriting Magic: An Exegesis of the Visionary Autobiography of a Fourteenth-Century French Monk",
+    "year": 2015,
+    "publisher": "Pennsylvania State University Press",
+    "relevance": "PRIMARY",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "fanger-invoking-angels-2012",
+    "author": "Claire Fanger (ed.)",
+    "title": "Invoking Angels: Theurgic Ideas and Practices, Thirteenth to Sixteenth Centuries",
+    "year": 2012,
+    "publisher": "Pennsylvania State University Press",
+    "relevance": "PRIMARY",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "fanger-mrw-editorial-note-2012",
+    "author": "Claire Fanger",
+    "title": "From the Editors: A Note on Magic and Cognition",
+    "year": 2012,
+    "journal": "Magic, Ritual, and Witchcraft, vol. 7, iss. 1",
+    "relevance": "CONTEXTUAL",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "kieckhefer-magic-in-middle-ages-2014",
+    "author": "Richard Kieckhefer",
+    "title": "Magic in the Middle Ages",
+    "year": 2014,
+    "publisher": "Cambridge University Press (Canto Classics ed.)",
+    "relevance": "DIRECT",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "kieckhefer-forbidden-rites",
+    "author": "Richard Kieckhefer",
+    "title": "Forbidden Rites: A Necromancer's Manual of the Fifteenth Century",
+    "year": 1997,
+    "publisher": "Penn State University Press (Magic in History series)",
+    "relevance": "CONTEXTUAL",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "page-magic-in-the-cloister-2013",
+    "author": "Sophie Page",
+    "title": "Magic in the Cloister: Pious Motives, Illicit Interests, and Occult Approaches to the Medieval Universe",
+    "year": 2013,
+    "publisher": "Penn State University Press",
+    "relevance": "PRIMARY",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "klaassen-transformations-of-magic-2013",
+    "author": "Frank Klaassen",
+    "title": "The Transformations of Magic: Illicit Learned Magic in the Later Middle Ages and Renaissance",
+    "year": 2013,
+    "publisher": "Penn State University Press",
+    "relevance": "DIRECT",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "skinner-clark-ars-notoria-edition",
+    "author": "Stephen Skinner and Daniel Clark",
+    "title": "Ars Notoria: The Grimoire of Rapid Learning by Magic",
+    "year": 2015,
+    "publisher": "Golden Hoard Press",
+    "relevance": "PRIMARY",
+    "conversion_status": "CONVERTED",
+    "note": "Modern annotated edition/translation of the ars notoria text tradition; not a manuscript facsimile. Used to describe the ritual John inherited, not as a source for John himself."
+  },
+  {
+    "slug": "lang-unlocked-books-2008",
+    "author": "Benedek Láng",
+    "title": "Unlocked Books: Manuscripts of Learned Magic in the Medieval Libraries of Central Europe",
+    "year": 2008,
+    "publisher": "Penn State University Press",
+    "relevance": "DIRECT",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "attrell-porreca-picatrix-2019",
+    "author": "Dan Attrell and David Porreca (trans.)",
+    "title": "Picatrix: A Medieval Treatise on Astral Magic",
+    "year": 2019,
+    "publisher": "Penn State University Press",
+    "relevance": "CONTEXTUAL",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "sworn-book-of-honorius-de-laat",
+    "author": "Sanne de Laat (ed.)",
+    "title": "Sworn Book of Honorius, edition (ff. 9r–15v)",
+    "year": null,
+    "relevance": "CONTEXTUAL",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "newman-review-kieckhefer-1993",
+    "author": "William R. Newman",
+    "title": "Review of Kieckhefer, Magic in the Middle Ages",
+    "year": 1993,
+    "journal": "Speculum, vol. 68, iss. 2",
+    "relevance": "CONTEXTUAL",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "review-page-16thc-journal-2006",
+    "author": "unsigned/journal review",
+    "title": "Review of Sophie Page, Magic in Medieval Manuscripts",
+    "year": 2006,
+    "journal": "Sixteenth Century Journal, vol. 37, iss. 3",
+    "relevance": "CONTEXTUAL",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "classen-review-page-2006",
+    "author": "Albrecht Classen",
+    "title": "Review of Sophie Page, Magic in Medieval Manuscripts",
+    "year": 2006,
+    "journal": "Mediaevistik, vol. 19",
+    "relevance": "CONTEXTUAL",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "page-rider-routledge-history-2019",
+    "author": "Sophie Page and Catherine Rider (eds.)",
+    "title": "The Routledge History of Medieval Magic",
+    "year": 2019,
+    "publisher": "Routledge",
+    "relevance": "DIRECT",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "kieckhefer-specific-rationality-1994",
+    "author": "Richard Kieckhefer",
+    "title": "The Specific Rationality of Medieval Magic",
+    "year": 1994,
+    "journal": "The American Historical Review, vol. 99, iss. 3",
+    "relevance": "CONTEXTUAL",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "bailey-sacred-and-sinister-2018",
+    "author": "Michael D. Bailey, Kristi Woodward Bain, Maeve Brigid Callan (eds.)",
+    "title": "The Sacred and the Sinister: Studies in Medieval Religion and Magic",
+    "year": 2018,
+    "publisher": "Penn State University Press",
+    "relevance": "CONTEXTUAL",
+    "conversion_status": "CONVERTED"
+  },
+  {
+    "slug": "hazards-of-dark-arts",
+    "author": "various (Magic in History series)",
+    "title": "Hazards of the Dark Arts: Advice for Medieval Princes on Witchcraft and Magic",
+    "year": null,
+    "relevance": "CONTEXTUAL",
+    "conversion_status": "CONVERTED"
+  }
+]

@@ -1,0 +1,12 @@
+# Full texts of copyrighted scholarly works — local research material only,
+# never committed. See portal/corpus/sources/README.md.
+portal/corpus/sources/*.md
+!portal/corpus/sources/README.md
+
+# Built database (regenerated from data/seed.json by seed_from_json.py)
+portal/db/*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About — John of Morigny Portal</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="brand"><a href="index.html">The John of Morigny Portal</a></div>
+  <nav><a href="index.html">Home</a> · <a href="figures/index.html">Figures</a> · <a href="concepts/index.html">Concepts</a> · <a href="texts/index.html">Texts</a> · <a href="timeline/index.html">Timeline</a> · <a href="institutions/index.html">Institutions</a> · <a href="arguments/index.html">Arguments</a> · <a href="scholarship.html">Scholarship</a> · <a href="about.html">About</a></nav>
+</header>
+<main>
+
+<h1>About</h1>
+<p>A research portal on John of Morigny (fl. c. 1300&ndash;1323), the Benedictine monk,
+visionary, and rewriter of the condemned <em>ars notoria</em>, built alongside
+<a href="https://github.com/t3dy/MORIGNYGAME">MORIGNYGAME</a> (a narrative game on the
+same subject) but standing independently as scholarship &mdash; the portal does not
+depend on the game, and the game's fiction is never blended into these entries.</p>
+
+<h2>Architecture</h2>
+<p>SQLite source of truth (<code>portal/db/morigny.db</code>), a Python static-site
+generator, vanilla HTML/CSS &mdash; no frameworks. Follows the same pattern as this
+workspace's other knowledge portals (TurkaGame's own portal, IslamicateOccultPortal,
+MedievalMagicDB, witcherportal).</p>
+
+<h2>Provenance conventions</h2>
+<ul>
+<li><strong>Every content row</strong> carries <code>source_method</code>,
+<code>review_status</code>, and <code>confidence</code>. <code>confidence: HIGH</code>
+means a direct, page-locatable passage was actually read &mdash; never inferred, never
+guessed.</li>
+<li><strong>No assertion without attribution.</strong> Non-obvious claims carry a
+<code>scholarly_refs</code> row with a real page number, shown as "Sources" on the
+entry itself.</li>
+<li><strong>The corpus is not the site.</strong> <code>portal/corpus/sources/*.md</code>
+holds full-text conversions of copyrighted scholarly works for research reference only
+&mdash; gitignored, never published here. The public artifact is the cited entry, not
+the source text behind it.</li>
+<li><strong>Modern scholars are historical figures too.</strong> Claire Fanger, Nicholas
+Watson, Richard Kieckhefer, and others who study John appear in the Figures section
+with real biographical treatment, not just as citation strings.</li>
+<li><strong>What isn't confirmed says so.</strong> Several sources central to John's
+biography &mdash; the Fanger&ndash;Watson critical edition of the <em>Liber florum</em>,
+Julien V&eacute;ron&egrave;se's standalone monographs, Nicholas Watson's 1998
+<em>Conjuring Spirits</em> essay, Barbara Newman's 2005 <em>Speculum</em> article &mdash;
+were not available to this portal's author at build time. Claims resting on them are
+marked <code>confidence: LOW</code> or left out rather than guessed.</li>
+</ul>
+
+<h2>Status</h2>
+<p>Phase 1 build. See the notice on the <a href="index.html">home page</a> for current
+coverage.</p>
+
+</main>
+<footer>A research portal, not a source of religious or occult instruction. See <a href="about.html">About</a> for scope and provenance conventions.</footer>
+</body>
+</html>
